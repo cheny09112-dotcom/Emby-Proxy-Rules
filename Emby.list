@@ -1,8 +1,7 @@
-#机场服
+# 机场服
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,liminalnet.com
 DOMAIN-SUFFIX,recmata.net
-
 
 # 1111
 DOMAIN-SUFFIX,line.xmsl.org
@@ -11,7 +10,6 @@ DOMAIN-SUFFIX,zabc.net
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN,209.141.61.153
 DOMAIN,154.12.52.149
-
 
 # SNTP
 DOMAIN-SUFFIX,cn2gias.uk
